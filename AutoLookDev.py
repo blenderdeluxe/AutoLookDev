@@ -1,8 +1,8 @@
 #AutoLookDev (ALD) was created by Valentin DAVID and is an open source script, making it freely usable, modifiable and distributable.
-#AutoLookDev is intended to boost your workflow with Maya 2017, RenderMan and Arnold
-#If you have any suggestions, features request or bug enquiries please shoot me an email !
+#AutoLookDev is intended to boost your workflow with Maya 2017 and RenderMan 21 / Arnold 4
 #Contact : vdavid.pro@gmail.com
 #If you're interested in seeing my work, please visit https://www.artstation.com/artist/vdavid
+#See also : https://github.com/vdavidcg
 
 import maya.cmds as cmds
 from maya import mel
