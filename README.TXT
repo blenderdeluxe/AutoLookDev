@@ -1,3 +1,5 @@
+AutoLookDev v1.0.2
+
 ****** INSTALL ******
 
 1. Copy and paste "AutoLookDev.py" in your scripts folder (usually "C:\Users\user\Documents\maya\2017\prefs\scripts")
