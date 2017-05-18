@@ -1,8 +1,8 @@
-#CURRENT VERSION : v1.1.0
+#CURRENT VERSION : v1.1
 
 ****** INSTALL ******
 
-1. Copy and paste "AutoLookDev.py" in your scripts folder (usually "C:\Users\%USERPROFILE%\Documents\maya\2017\prefs\scripts")
+1. Copy and paste "AutoLookDev_rfm.py" in your scripts folder (usually "C:\Users\%USERPROFILE%\Documents\maya\2017\prefs\scripts")
 2. Open Maya
 3. Open the script editor
 4. In an empty Python tab paste the following code :
