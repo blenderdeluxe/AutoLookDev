@@ -2,11 +2,11 @@
 #AutoLookDev is intended to boost your workflow with Maya 2017 and RenderMan 21
 #Contact : vdavid.pro@gmail.com
 #If you're interested in seeing my work, please visit https://www.artstation.com/artist/vdavid
-#See also : https://github.com/vdavidcg
+#Features request / bug reports : https://github.com/vdavidcg/AutoLookDev/issues
+#See also :  https://github.com/vdavidcg
 
 import maya.cmds as cmds
 from maya import mel
-import mtoa.utils
 import webbrowser
 import time
 import os
